@@ -1,6 +1,6 @@
-# my_app
+# Tripey
 
-A new Flutter project.
+Travel Planner AI is a Flutter-based mobile application that streamlines travel planning using advanced AI technologies, Google Maps APIs, and a RESTful API built with Flask. It offers features like nearby place searches, detailed information, predictive search suggestions, place clustering, and budget constraints based on user preferences, all while utilizing Firebase for backend services. Future enhancements include itinerary rating, sharing, and a community platform for travelers.
 
 ## Getting Started
 
