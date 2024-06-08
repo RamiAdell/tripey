@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950044072953",
+    "project_id": "tripit-267d5",
+    "storage_bucket": "tripit-267d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950044072953:android:34a3fdddcc11cdf16fbb28",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSgIoYFLO0AqjkNhnG8R2EYhVi26qpk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
