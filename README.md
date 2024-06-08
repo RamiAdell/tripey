@@ -19,25 +19,27 @@ Travel Planner AI is a Flutter-based mobile application that streamlines travel 
 ## Second Option to user to get his Current Location
 <img src="https://drive.google.com/uc?export=download&id=1Wtm2aGsqjqiGwRaVaUYRXp_KTkm-gdDm" width="300px" />
 
-## User choose his preferences for his itinerary 
+
+## Sample of entered data
 <img src="https://drive.google.com/uc?export=download&id=1LK88d9N42uW36PsYgUNEZT40yTIgwJET" width="300px" />
 
-## User choose his Meal preferences for Budget level 
+## User choose his preferences for his itinerary 
 <img src="https://drive.google.com/uc?export=download&id=1jChAxc6ypCqrpV1EWIx3dH6oRlUUdy4P" width="300px" />
 
-
-## Loading page (Animated Splash Screen) figure 1
+## User choose his Meal preferences for Budget level 
 <img src="https://drive.google.com/uc?export=download&id=1EeOwYFe29Sdx0wmKJkOBcvAvLyXbmdsU" width="300px" />
 
-## Loading page (Animated Splash Screen) figure 2
+## Loading page (Animated Splash Screen) figure 1
+
 <img src="https://drive.google.com/uc?export=download&id=1ddSG7zlqSewbMAQp6ljZT5-772XoVhav" width="300px" />
 
+## Loading page (Animated Splash Screen) figure 2
+<img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="300px" />
 
 ## Finished
 <img src="https://drive.google.com/uc?export=download&id=1kkdcpwcv66YlkkSHHHZjjQMtimwGogIG" width="300px" />
 
-## Login Page
-<img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="300px" />
+
 
 
 ## Itinerary Page
