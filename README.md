@@ -3,7 +3,7 @@
 Travel Planner AI is a Flutter-based mobile application that streamlines travel planning using advanced AI technologies, Google Maps APIs, and a RESTful API built with Flask. It offers features like nearby place searches, detailed information, predictive search suggestions, place clustering, and budget constraints based on user preferences, all while utilizing Firebase for backend services. Future enhancements include itinerary rating, sharing, and a community platform for travelers.
 
 ## Login Page
-<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="200px" />
 
 
 ## First Page
