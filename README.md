@@ -2,12 +2,48 @@
 
 Travel Planner AI is a Flutter-based mobile application that streamlines travel planning using advanced AI technologies, Google Maps APIs, and a RESTful API built with Flask. It offers features like nearby place searches, detailed information, predictive search suggestions, place clustering, and budget constraints based on user preferences, all while utilizing Firebase for backend services. Future enhancements include itinerary rating, sharing, and a community platform for travelers.
 
-## Getting Started
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="300px" />
 
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
+
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
+
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1LK88d9N42uW36PsYgUNEZT40yTIgwJET" width="300px" />
+
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1jChAxc6ypCqrpV1EWIx3dH6oRlUUdy4P" width="300px" />
+
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1EeOwYFe29Sdx0wmKJkOBcvAvLyXbmdsU" width="300px" />
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1ddSG7zlqSewbMAQp6ljZT5-772XoVhav" width="300px" />
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="300px" />
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1iAufDEf7LjoC6DOVnArUv77jvBYf2eCx" width="300px" />
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1TAPwih2rnYc2jZHk2UepfWRKmp69tnJk" width="300px" />
+
+
+## Login Page
+<img src="https://drive.google.com/uc?export=download&id=1zXMGuqo0frUalN_yinAQEInfKPnTur-q" width="300px" />
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
