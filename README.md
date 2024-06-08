@@ -7,38 +7,47 @@ Travel Planner AI is a Flutter-based mobile application that streamlines travel 
 
 
 ## First Page
-#### Contains the itinerary constrain
+#### Contains the itinerary constrains
 <img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="300px" />
 
 
-## Login Page
+## AutoComplete API
+#### Getting Location of user by searching for Specific Place
 <img src="https://drive.google.com/uc?export=download&id=1E6MvrX6OVBCNbtvAJTF-o3Rgb5EhiJfJ" width="300px" />
 
-## Login Page
+
+## Second Option to user to get his Current Location
+<img src="https://drive.google.com/uc?export=download&id=1Wtm2aGsqjqiGwRaVaUYRXp_KTkm-gdDm" width="300px" />
+
+## User choose his preferences for his itinerary 
 <img src="https://drive.google.com/uc?export=download&id=1LK88d9N42uW36PsYgUNEZT40yTIgwJET" width="300px" />
 
-
-## Login Page
+## User choose his Meal preferences for Budget level 
 <img src="https://drive.google.com/uc?export=download&id=1jChAxc6ypCqrpV1EWIx3dH6oRlUUdy4P" width="300px" />
 
 
-## Login Page
+## Loading page (Animated Splash Screen) figure 1
 <img src="https://drive.google.com/uc?export=download&id=1EeOwYFe29Sdx0wmKJkOBcvAvLyXbmdsU" width="300px" />
 
-## Login Page
+## Loading page (Animated Splash Screen) figure 2
 <img src="https://drive.google.com/uc?export=download&id=1ddSG7zlqSewbMAQp6ljZT5-772XoVhav" width="300px" />
+
+
+## Finished
+<img src="https://drive.google.com/uc?export=download&id=1kkdcpwcv66YlkkSHHHZjjQMtimwGogIG" width="300px" />
 
 ## Login Page
 <img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="300px" />
 
-## Login Page
+
+## Itinerary Page
 <img src="https://drive.google.com/uc?export=download&id=1iAufDEf7LjoC6DOVnArUv77jvBYf2eCx" width="300px" />
 
-## Login Page
+## Sample Expanding day figure 1
 <img src="https://drive.google.com/uc?export=download&id=1TAPwih2rnYc2jZHk2UepfWRKmp69tnJk" width="300px" />
 
 
-## Login Page
+## Sample Expanding day figure 2
 <img src="https://drive.google.com/uc?export=download&id=1zXMGuqo0frUalN_yinAQEInfKPnTur-q" width="300px" />
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
