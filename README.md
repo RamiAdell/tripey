@@ -6,16 +6,11 @@ Travel Planner AI is a Flutter-based mobile application that streamlines travel 
 <img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
 
 
-## Login Page
+## First Page
+### Contains the itinerary constrain
 <img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="300px" />
 
 
-## Login Page
-<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
-
-
-## Login Page
-<img src="https://drive.google.com/uc?export=download&id=1ad7i5oN7uZirs-mu1cxkFfQZb1SV1Xg5" width="300px" />
 
 
 ## Login Page
