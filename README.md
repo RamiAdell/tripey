@@ -7,7 +7,7 @@ Travel Planner AI is a Flutter-based mobile application that streamlines travel 
 
 
 ## First Page
-### Contains the itinerary constrain
+#### Contains the itinerary constrain
 <img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="300px" />
 
 
