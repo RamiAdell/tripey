@@ -8,56 +8,56 @@ Travel Planner AI is a Flutter-based mobile application that streamlines travel 
 
 ## First Page
 #### Contains the itinerary constrains
-<img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=14s6XfMGEDdoRhaL-Bt4fJ0xD4OragOSA" width="250px" />
 
 
 ## AutoComplete API
 #### Getting Location of user by searching for Specific Place
-<img src="https://drive.google.com/uc?export=download&id=1E6MvrX6OVBCNbtvAJTF-o3Rgb5EhiJfJ" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1E6MvrX6OVBCNbtvAJTF-o3Rgb5EhiJfJ" width="250px" />
 
 
 ## Second Option to user to get his Current Location
-<img src="https://drive.google.com/uc?export=download&id=1Wtm2aGsqjqiGwRaVaUYRXp_KTkm-gdDm" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1Wtm2aGsqjqiGwRaVaUYRXp_KTkm-gdDm" width="250px" />
 
 
 ## Sample of entered data
-<img src="https://drive.google.com/uc?export=download&id=1LK88d9N42uW36PsYgUNEZT40yTIgwJET" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1LK88d9N42uW36PsYgUNEZT40yTIgwJET" width="250px" />
 
 
 ## User choose his preferences for his itinerary 
-<img src="https://drive.google.com/uc?export=download&id=1jChAxc6ypCqrpV1EWIx3dH6oRlUUdy4P" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1jChAxc6ypCqrpV1EWIx3dH6oRlUUdy4P" width="250px" />
 
 
 ## User choose his Meal preferences for Budget level 
-<img src="https://drive.google.com/uc?export=download&id=1EeOwYFe29Sdx0wmKJkOBcvAvLyXbmdsU" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1EeOwYFe29Sdx0wmKJkOBcvAvLyXbmdsU" width="250px" />
 
 
 ## Loading page (Animated Splash Screen) figure 1
-<img src="https://drive.google.com/uc?export=download&id=1ddSG7zlqSewbMAQp6ljZT5-772XoVhav" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1ddSG7zlqSewbMAQp6ljZT5-772XoVhav" width="250px" />
 
 
 
 ## Loading page (Animated Splash Screen) figure 2
-<img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1-_akWEMGRFyM4us-FBm0_PIwDHSwaIj3" width="250px" />
 
 
 
 ## Finished
-<img src="https://drive.google.com/uc?export=download&id=1kkdcpwcv66YlkkSHHHZjjQMtimwGogIG" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1kkdcpwcv66YlkkSHHHZjjQMtimwGogIG" width="250px" />
 
 
 ## Itinerary Page
-<img src="https://drive.google.com/uc?export=download&id=1iAufDEf7LjoC6DOVnArUv77jvBYf2eCx" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1iAufDEf7LjoC6DOVnArUv77jvBYf2eCx" width="250px" />
 
 
 
 ## Sample Expanding day figure 1
-<img src="https://drive.google.com/uc?export=download&id=1TAPwih2rnYc2jZHk2UepfWRKmp69tnJk" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1TAPwih2rnYc2jZHk2UepfWRKmp69tnJk" width="250px" />
 
 
 
 ## Sample Expanding day figure 2
-<img src="https://drive.google.com/uc?export=download&id=1zXMGuqo0frUalN_yinAQEInfKPnTur-q" width="300px" />
+<img src="https://drive.google.com/uc?export=download&id=1zXMGuqo0frUalN_yinAQEInfKPnTur-q" width="250px" />
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
